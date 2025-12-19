@@ -170,9 +170,3 @@ multi-agent-chat-system/
 - Production vector DB (FAISS/Chroma)
 - REST API endpoints
 - Cloud deployment
-
----
-
-**Repository**: [GitHub URL]  
-**Demo Video**: [Video URL]  
-**Contact**: [Your Email]
