@@ -1,8 +1,7 @@
 # Multi-Agent Chat System - One Pager Abstract
 
 **Course:** Knowledge Representation and Reasoning  
-**Assignment:** Group Assignment 03  
-**Team Members:** [Student 1 Name], [Student 2 Name]  
+**Team Members:** Awais Khan, Abdul Moeez  
 **Date:** December 2024
 
 ---
