@@ -1,0 +1,34 @@
+======================================================================
+TEST: MEMORY TEST
+======================================================================
+
+Timestamp: 2025-12-18T20:57:04.232557
+
+QUERY:
+What did we discuss about neural networks earlier?
+
+======================================================================
+RESPONSE:
+======================================================================
+
+📚 I found 2 relevant items from our previous discussions:
+
+1. Topic: What are the main types of neural networks?
+   Timestamp: 2025-12-18T20:57:04.224560
+   Confidence: 0.90
+   Contains 2 items
+
+2. Topic: Research transformer architectures, analyze their computational efficiency, and summarize key trade-offs.
+   Timestamp: 2025-12-18T20:57:04.227560
+   Confidence: 0.85
+   Research findings: 2 topics
+   Analysis: TRADEOFF ANALYSIS:
+
+⚖️  TRANSFORMER ARCHITECTURES:
+  Tradeoffs: Memory intensive and requires large ...
+
+
+
+======================================================================
+END OF TEST
+======================================================================

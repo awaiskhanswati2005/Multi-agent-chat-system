@@ -1,0 +1,43 @@
+======================================================================
+TEST: SIMPLE QUERY
+======================================================================
+
+Timestamp: 2025-12-18T20:57:04.225556
+
+QUERY:
+What are the main types of neural networks?
+
+======================================================================
+RESPONSE:
+======================================================================
+
+✅ Here's what I found:
+
+📌 NEURAL NETWORKS
+──────────────────────────────────────────────────
+Types:
+  • Feedforward Neural Networks (FNN)
+  • Convolutional Neural Networks (CNN)
+  • Recurrent Neural Networks (RNN)
+  • Long Short-Term Memory (LSTM)
+  • Generative Adversarial Networks (GAN)
+  • Transformer Networks
+  • Autoencoders
+
+Description: Neural networks are computing systems inspired by biological neural networks that constitute animal brains. They consist of interconnected nodes (neurons) that process information.
+
+📌 DEEP LEARNING
+──────────────────────────────────────────────────
+
+Description: Deep learning uses neural networks with multiple layers to progressively extract higher-level features from raw input.
+Techniques:
+  • Backpropagation
+  • Dropout
+  • Batch normalization
+  • Transfer learning
+
+
+
+======================================================================
+END OF TEST
+======================================================================
