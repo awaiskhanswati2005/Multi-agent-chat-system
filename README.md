@@ -333,21 +333,14 @@ This project is created for educational purposes as part of the Knowledge Repres
 
 ## 👥 Contributors
 
-- [Your Name] - [Your Email]
-- [Team Member Name] - [Team Member Email]
+- Awais khan - awais0swati121@gmail.com
+- Abdul Moeez 
 
 ## 🙏 Acknowledgments
 
 - Air University, Faculty of Computing and AI
 - Department of Creative Technologies
 - Course: Knowledge Representation and Reasoning
-
-## 📧 Contact
-
-For questions or issues:
-- GitHub Issues: [Repository URL]/issues
-- Email: [Your Email]
-
----
+\---
 
 **Note**: This is an academic project demonstrating multi-agent system concepts. The knowledge base and vector search implementations are simplified for educational purposes.
